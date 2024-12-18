@@ -1,4 +1,4 @@
-**Nome del Progetto:** *BookStoreEJB*  
+### BookStoreEJB
 **Descrizione del Progetto:**
 
 Il progetto *BookStoreEJB* è un'applicazione Java EE progettata per la gestione delle vendite di libri in un sistema di libreria. Utilizza una serie di tecnologie e componenti enterprise per risolvere le problematiche comuni di gestione delle vendite, come la persistenza dei dati, la gestione delle vendite tramite EJB (Enterprise JavaBeans), l'integrazione con JMS (Java Message Service), e il monitoraggio delle chiamate tramite interceptors.
